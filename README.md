@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👀 I’m interested in linear algebra, measure theory, and Riemannian geometry :)
+- 🌱 I’m currently learning Python 3, Haskell, Lean, Category Theory (for Haskell).
+- 😄 Pronouns: he/him, they/them.
+- ⚡ Fun fact: I'm a 2nd year Mathematics undergraduate (as of 12-10-22), taking an integrated master's course.
